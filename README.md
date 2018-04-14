@@ -32,3 +32,6 @@ This game base on [MDN web docs 向“弹跳球”演示程序添加新功能](h
 ## 参考
 该游戏来源于[MDN web docs 向“弹跳球”演示程序添加新功能](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/Objects/%E5%90%91%E2%80%9C%E5%BC%B9%E8%B7%B3%E7%90%83%E2%80%9D%E6%BC%94%E7%A4%BA%E7%A8%8B%E5%BA%8F%E6%B7%BB%E5%8A%A0%E6%96%B0%E5%8A%9F%E8%83%BD) 。
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/25412051/38768415-f7c67c8e-4025-11e8-8780-8f68a561009b.png)
+![image](https://user-images.githubusercontent.com/25412051/38768610-06be8f94-4029-11e8-82ce-fdd040b26c4a.png)
